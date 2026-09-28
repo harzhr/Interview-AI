@@ -102,11 +102,3 @@ Open the Vite URL shown in the terminal, usually `http://localhost:5173`.
 - `GET /api/interview/report/:interviewId` - Get one interview report
 - `POST /api/interview/resume/pdf/:interviewReportId` - Generate a resume PDF
 
-## GitHub Setup
-
-After creating a GitHub repository, connect and push this project with:
-
-```powershell
-git remote add origin https://github.com/YOUR_USERNAME/interview-ai.git
-git push -u origin master
-```
